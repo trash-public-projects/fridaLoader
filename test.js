@@ -1,1 +1,1 @@
-console.log(fs);
+console.log("absolutely new script");
